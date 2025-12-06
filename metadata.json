@@ -1,0 +1,7 @@
+{
+  "name": "SK Finance",
+  "description": "A secure, comprehensive finance application for Gold, Vehicle, and Home loans with user onboarding, loan calculators, and admin management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
